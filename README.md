@@ -8,7 +8,7 @@
 
 ## Description
 
-Automatic text summarization is basically summarizing of the given paragraph using natural language processing and machine learning. There has been an explosion in the amount of text data from a variety of sources. This volume of text is an invaluable source of information and knowledge which needs to be effectively summarized to be useful.
+Automatic text summarization is basically summarizing of the given paragraph using natural language processing and machine learning. There has been an explosion in the amount of text data from a variety of sources. This volume of text is an invaluable source of information and knowledge that needs to be effectively summarized to be useful.
 
 Here are some significant reasons why we need text summarization-
 • Text summarization shortens reading time.
